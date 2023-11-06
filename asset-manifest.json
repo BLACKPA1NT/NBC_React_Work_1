@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BLACKPA1NT/NBC_React_Work_1.git/static/css/main.f17d12c9.css",
-    "main.js": "/BLACKPA1NT/NBC_React_Work_1.git/static/js/main.b112593d.js",
-    "static/js/787.97a945da.chunk.js": "/BLACKPA1NT/NBC_React_Work_1.git/static/js/787.97a945da.chunk.js",
-    "index.html": "/BLACKPA1NT/NBC_React_Work_1.git/index.html",
-    "main.f17d12c9.css.map": "/BLACKPA1NT/NBC_React_Work_1.git/static/css/main.f17d12c9.css.map",
-    "main.b112593d.js.map": "/BLACKPA1NT/NBC_React_Work_1.git/static/js/main.b112593d.js.map",
-    "787.97a945da.chunk.js.map": "/BLACKPA1NT/NBC_React_Work_1.git/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/NBC_React_Work_1/static/css/main.f17d12c9.css",
+    "main.js": "/NBC_React_Work_1/static/js/main.dd7ef82e.js",
+    "static/js/787.97a945da.chunk.js": "/NBC_React_Work_1/static/js/787.97a945da.chunk.js",
+    "index.html": "/NBC_React_Work_1/index.html",
+    "main.f17d12c9.css.map": "/NBC_React_Work_1/static/css/main.f17d12c9.css.map",
+    "main.dd7ef82e.js.map": "/NBC_React_Work_1/static/js/main.dd7ef82e.js.map",
+    "787.97a945da.chunk.js.map": "/NBC_React_Work_1/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f17d12c9.css",
-    "static/js/main.b112593d.js"
+    "static/js/main.dd7ef82e.js"
   ]
 }
